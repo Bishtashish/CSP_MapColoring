@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d235323d-13ae-485f-b9ff-ee5ca3db64f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a6KLhqeNgMyY5EKuGmSNxZK67X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/map" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/map" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CSP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CSP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d235323d-13ae-485f-b9ff-ee5ca3db64f1" name="Default Changelist" comment="" />
+      <created>1586050548242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586050548242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586053611078">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586053611078" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586052539294">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1586052539294" />
+    <state width="1419" height="320" key="GridCell.Tab.0.bottom" timestamp="1586053625085">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586053625085" />
+    <state width="1419" height="320" key="GridCell.Tab.0.center" timestamp="1586053625082">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586053625082" />
+    <state width="1419" height="320" key="GridCell.Tab.0.left" timestamp="1586053625081">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586053625081" />
+    <state width="1419" height="320" key="GridCell.Tab.0.right" timestamp="1586053625083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586053625083" />
+    <state x="400" y="207" width="639" height="486" key="find.popup" timestamp="1586054046011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="400" y="207" width="639" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586054046011" />
+  </component>
+</project>
